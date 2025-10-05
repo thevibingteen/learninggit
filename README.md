@@ -1,4 +1,4 @@
 # learninggit
 Basics of git and github
 <br>
-author - sidd
+author - sidd s
